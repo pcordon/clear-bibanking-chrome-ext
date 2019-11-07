@@ -36,7 +36,7 @@ function clearBiBullshit(tab) {
             chrome.tabs.update(tab.id, {
               url: "https://www.bibanking.bi.com.gt/"
             });
-          }, 3000);
+          }, 1000);
         });
       }
     );
