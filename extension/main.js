@@ -10,8 +10,7 @@ function clearBiBullshit(tab) {
     return;
   }
 
-  // Ask for confirmation.
-  if (!confirm("Clear Bi-B@nking data?")) return;
+  // if (!confirm("Clear Bi-B@nking data?")) return;
 
   running = true;
   chrome.tabs.create({ url: chrome.runtime.getURL("main.html") }, function(
