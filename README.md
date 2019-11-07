@@ -5,5 +5,5 @@ Clear Chrome's browsing data from their crappy Bi-B@nking website in order to ac
 3. Enable developer mode.
 4. Click "Load Unpacked".
 5. Select the "extension" folder.
-6. ?
+6. ????
 7. profit
